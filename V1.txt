@@ -1,1 +1,2 @@
-This is important information
+his is important information
+bug fixed successfully
